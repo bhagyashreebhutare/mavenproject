@@ -19,6 +19,13 @@ public class BaseNew
 	driver.get(UtilityNew.readDataFrompropertyFile("url"));
 	Reporter.log("Launching browser", true);
 	Thread.sleep(1000);
+	
+	
+	
+	
+	
+	
+	
 	}
 
 }
